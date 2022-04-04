@@ -45,16 +45,22 @@ namespace VehicleTask
                         InputCar(ref doorcount, ref wincode, ref horsepower, ref tanksize, ref currentoil, ref fueltype, ref whellthickness, ref transmissionkind, ref drivetime, ref drivepath);
                         Car car = new Car(doorcount, wincode, horsepower, tanksize, currentoil, fueltype, whellthickness, transmissionkind, drivetime, drivepath);
                         car.ShowInfo();
+                        Console.WriteLine($"Average Speed - {car.AverageSpeed()}");
+                        Console.WriteLine($"Left Fuel Amount - {car.LeftFuelAmount()}");
+                        
                         break;
                     case 2:
                         InputBicycle(ref pedalkind, ref whellthickness, ref transmissionkind, ref drivetime, ref drivepath);
                         Bicycle bicycle = new Bicycle(pedalkind, whellthickness, transmissionkind, drivetime, drivepath);
-                        bicycle.ShowInfo();
+                        Console.WriteLine($"Average Speed - {bicycle.AverageSpeed()}");
                         break;
                     case 3:
                         InputPlane(ref winglength, ref whellthickness, ref horsepower, ref tanksize, ref currentoil, ref fueltype, ref drivetime, ref drivepath);
                         Plane plane = new Plane(winglength, whellthickness, horsepower, tanksize, currentoil, fueltype, drivetime, drivepath);
                         plane.ShowInfo();
+                        Console.WriteLine($"Average Speed - {plane.AverageSpeed()}");
+                        Console.WriteLine($"Left Fuel Amount - {plane.LeftFuelAmount()}");
+
                         break;
                     default:
                     case 4:

@@ -151,8 +151,7 @@ namespace VehicleTask.Models
             {
                 Console.WriteLine($"{item.Name} - {item.GetValue(this)}");
             }
-            Console.WriteLine($"Average Speed - {AverageSpeed()}");
-            Console.WriteLine($"Left Fuel Amount - {LeftFuelAmount()}");
+            
             Console.WriteLine("----------------------------------------------------------");
 
         }

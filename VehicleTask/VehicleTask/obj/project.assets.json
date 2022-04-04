@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\tu7hnsxs1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Tasks\\VehicleTask\\VehicleTask\\VehicleTask.csproj",
+      "projectUniqueName": "C:\\Users\\tu7hnsxs1\\Desktop\\c-Task13\\VehicleTask\\VehicleTask\\VehicleTask.csproj",
       "projectName": "VehicleTask",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Tasks\\VehicleTask\\VehicleTask\\VehicleTask.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Tasks\\VehicleTask\\VehicleTask\\obj\\",
+      "projectPath": "C:\\Users\\tu7hnsxs1\\Desktop\\c-Task13\\VehicleTask\\VehicleTask\\VehicleTask.csproj",
+      "packagesPath": "C:\\Users\\tu7hnsxs1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu7hnsxs1\\Desktop\\c-Task13\\VehicleTask\\VehicleTask\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu7hnsxs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
