@@ -67,7 +67,7 @@ namespace VehicleTask.Models
             }
             set
             {
-                if (value > 0)
+                if (value > 0 || value < 200)
                 {
                     _tanksize = value;
                 }

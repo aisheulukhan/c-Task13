@@ -23,7 +23,7 @@ namespace VehicleTask.Models
             }
             set
             {
-                if (value > 0)
+                if (value > 0 || value < 150)
                 {
                     _wingLength = value;
                 }
@@ -67,7 +67,7 @@ namespace VehicleTask.Models
             }
             set
             {
-                if (value > 0)
+                if (value > 0 || value < 1000)
                 {
                     _tanksize = value;
                 }

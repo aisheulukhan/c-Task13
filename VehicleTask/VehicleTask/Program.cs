@@ -156,7 +156,7 @@ namespace VehicleTask
                 tanksize = Convert.ToDouble(Console.ReadLine());
                 tsize = tanksize;
 
-                if (tanksize < 0)
+                if (tanksize < 0 || tanksize > 200)
                 {
                     throw new NotAvailableException("Yağ tutumunu düzgün daxil edin!");
                 }
@@ -460,7 +460,7 @@ namespace VehicleTask
             {
                 Console.Write("Qanad uzunluğunu daxil edin: ");
                 winglength = Convert.ToInt32(Console.ReadLine());
-                if (winglength < 0)
+                if (winglength < 0 || winglength > 150)
                 {
                     throw new NotAvailableException("Qanad uzunluğunu düzgün daxil edin!");
                 }
@@ -532,7 +532,7 @@ namespace VehicleTask
                 tanksize = Convert.ToDouble(Console.ReadLine());
                 ttsize = tanksize;
 
-                if (tanksize < 0)
+                if (tanksize < 0 || tanksize > 1000)
                 {
                     throw new NotAvailableException("Yağ tutumunu düzgün daxil edin!");
                 }
