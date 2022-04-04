@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.exe
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.deps.json
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.runtimeconfig.json
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.dll
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\bin\Debug\netcoreapp3.1\VehicleTask.pdb
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.dll
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.pdb
+C:\Users\HP\Desktop\Tasks\VehicleTask\VehicleTask\obj\Debug\netcoreapp3.1\VehicleTask.genruntimeconfig.cache
